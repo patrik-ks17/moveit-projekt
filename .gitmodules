@@ -1,0 +1,6 @@
+[submodule "moveit-api"]
+	path = moveit-api
+	url = https://github.com/patrik-ks17/moveit-api
+[submodule "moveit"]
+	path = moveit
+	url = https://github.com/patrik-ks17/moveit
